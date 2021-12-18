@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4d68936b-71d4-4db7-abb5-e95e3c3c46a9",
+    "data": [
+      {
+        "text": "K",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19c76f85-8b7f-4caf-b3c6-df494a1ab9a9",
+    "data": [
+      {
+        "text": "Cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "670a515a-cf25-488c-8df9-64c04971abde",
+    "data": [
+      {
+        "text": "Awesome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e097cc9d-af90-4d77-882d-8d05cd5c3c72",
+    "data": [
+      {
+        "text": "Great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f22c92ce-e4ab-404a-8139-6a933e85e966",
+    "data": [
+      {
+        "text": "Thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b5c0438-56ec-4d08-9c07-27d3447cbd59",
+    "data": [
+      {
+        "text": "Ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

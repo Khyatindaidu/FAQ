@@ -1,0 +1,90 @@
+[
+  {
+    "id": "3484a39d-2d7d-4dcc-811c-6ee198804595",
+    "data": [
+      {
+        "text": "What are some reviews of the ",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5acda69-4e4e-4894-b608-7e6914c04a58",
+    "data": [
+      {
+        "text": "I would like the reviews of a ordered ",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25763714-e3f6-47d5-89b8-92580d3f2e9d",
+    "data": [
+      {
+        "text": "I am looking for some ",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      },
+      {
+        "text": " reviews",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5b5629d-0dec-441c-94d1-40651246a77c",
+    "data": [
+      {
+        "text": "Dish",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      },
+      {
+        "text": " review?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

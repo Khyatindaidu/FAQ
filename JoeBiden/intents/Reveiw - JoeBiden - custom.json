@@ -1,0 +1,46 @@
+{
+  "id": "f6fb1470-4287-4e22-9b93-ee941261d4da",
+  "parentId": "573b36d3-3208-4ddc-bd51-36929f8b7e36",
+  "rootParentId": "573b36d3-3208-4ddc-bd51-36929f8b7e36",
+  "name": "Reveiw - JoeBiden - custom",
+  "auto": true,
+  "contexts": [
+    "Reveiw-JoeBiden-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Reveiw-JoeBiden.Reveiw-JoeBiden-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you! Would you like to know more about the dish? I.e. prep time, spicyness or other details?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

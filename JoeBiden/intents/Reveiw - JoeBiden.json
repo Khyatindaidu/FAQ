@@ -1,0 +1,62 @@
+{
+  "id": "573b36d3-3208-4ddc-bd51-36929f8b7e36",
+  "name": "Reveiw - JoeBiden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Reveiw-JoeBiden-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "63124be0-eb2f-412c-aa2b-01a13a8fdb61",
+          "name": "dish",
+          "required": true,
+          "dataType": "@dish",
+          "value": "$dish.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which dish would you like to get the review of?\n- Chicken 65\n- Mutton Biriyani \n- Chicken (Boneless) Biriyani \n- Thumbs up"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "$dish is amazing! - somebody",
+            "I love the $dish!",
+            "Great service and awesome $dish"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
